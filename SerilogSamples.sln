@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerilogSamples.ConsoleApp", "SerilogSamples.ConsoleApp\SerilogSamples.ConsoleApp.csproj", "{BCEA607D-3FF3-4CBE-B4EB-B478D7AB4B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogSamples.Api", "SerilogSamples.Api\SerilogSamples.Api.csproj", "{4450B46F-C4E0-4C46-81C1-1F99813BD30B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEA607D-3FF3-4CBE-B4EB-B478D7AB4B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEA607D-3FF3-4CBE-B4EB-B478D7AB4B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEA607D-3FF3-4CBE-B4EB-B478D7AB4B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEA607D-3FF3-4CBE-B4EB-B478D7AB4B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4450B46F-C4E0-4C46-81C1-1F99813BD30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4450B46F-C4E0-4C46-81C1-1F99813BD30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4450B46F-C4E0-4C46-81C1-1F99813BD30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4450B46F-C4E0-4C46-81C1-1F99813BD30B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF40F01D-A2F0-40C1-AD38-3F970AEC1D37}
+	EndGlobalSection
+EndGlobal
